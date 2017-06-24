@@ -1,0 +1,27 @@
+﻿@model List<model.entity.Alumno>
+@{
+    ViewBag.Title = "Inicio";
+}
+
+<h1>Listado de Alumnos</h1>
+
+<table>
+    <tr>
+        <th>Codigo</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Telefono</th>
+    </tr>
+    @foreach (var objAlumno in Model)
+    {
+        <tr>
+            <td>@objAlumno.IdAlumno</td>
+            <td>@objAlumno.Nombre</td>
+            <td>@objAlumno.Apellido</td>
+            <td>@objAlumno.Telefono</td>
+        </tr>
+    }
+    
+</table>
+
+

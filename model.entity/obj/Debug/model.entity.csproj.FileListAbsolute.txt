@@ -1,0 +1,4 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\bin\Debug\model.entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\bin\Debug\model.entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\obj\Debug\model.entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\obj\Debug\model.entity.pdb

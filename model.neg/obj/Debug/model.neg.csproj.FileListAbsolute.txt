@@ -1,0 +1,9 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\obj\Debug\model.neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\bin\Debug\model.neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\bin\Debug\model.neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\bin\Debug\model.dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\bin\Debug\model.entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\bin\Debug\model.dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\bin\Debug\model.entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\obj\Debug\model.neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.neg\obj\Debug\model.neg.pdb
